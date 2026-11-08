@@ -55,16 +55,16 @@ This project demonstrates my practical learning and application of frontend deve
 ## Website Preview
 
 ### Homepage
-![Pheezo Homepage](screenshots/Screenshot%202026-11-08%20115941.png)
+![Homepage](Screenshot%202026-11-08%20115941.png)
 
 ### What We Do
-![What We Do](screenshots/Screenshot%202026-11-08%20120159.png)
+![What We Do](Screenshot%202026-11-08%20120159.png)
 
 ### About Us
-![About Us](screenshots/Screenshot%202026-11-08%20120250.png)
+![About Us](Screenshot%202026-11-08%20120250.png)
 
 ### Why Choose Pheezo
-![Why Choose Pheezo](screenshots/Screenshot%202026-11-08%20120357.png)
+![Why Choose Pheezo](Screenshot%202026-11-08%20120357.png)
 
 ### Contact and Quote
-![Contact and Quote](screenshots/Screenshot%202026-11-08%20120448.png)
+![Contact and Quote](Screenshot%202026-11-08%20120448.png)
