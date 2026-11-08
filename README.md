@@ -52,3 +52,16 @@ The website is deployed using Netlify.
 **Independent Frontend Developer**
 
 This project demonstrates my practical learning and application of frontend development skills, responsive web design and website deployment.
+## Website Preview
+
+### Homepage
+![Homepage](screenshots/homepage.png)
+
+### About and Services
+![About and Services](screenshots/about-services.png)
+
+### Why Choose Pheezo
+![Why Choose Pheezo](screenshots/why-choose-us.png)
+
+### Contact and Request a Quote
+![Contact and Quote](screenshots/contact-quote.png)
